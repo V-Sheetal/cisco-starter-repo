@@ -16,16 +16,19 @@
 }
 
 .exhibit {
+    flex-basis: calc(33.33% - 20px);
     background-color: #6096ba;
     border: black solid 1.5px;
     border-radius: 6px;
     padding: 20px;
     margin: 20px;
-    width: 25%;
+    width: 35%;
 }
 
 .exhibit-heading h2 {
-    margin-bottom: 20px;
-    font-size: 18px;
-    margin: 0;
+    text-align: left;
+}
+
+.exhibit-heading p {
+    text-align: left;
 }
