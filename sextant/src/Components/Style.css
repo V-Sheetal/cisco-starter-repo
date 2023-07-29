@@ -1,0 +1,31 @@
+.banner {
+    background-color: #274c77;
+    height: 80px;
+    padding: 20px;
+    text-align: center;
+}
+
+.banner h2 {
+    color: #e7ecef;
+    font-size: 35px;
+    font-style: normal;
+    font-variant: small-caps;
+    font-weight: 600;
+    line-height: 30px;
+    text-align: center;
+}
+
+.exhibit {
+    background-color: #6096ba;
+    border: black solid 1.5px;
+    border-radius: 6px;
+    padding: 20px;
+    margin: 20px;
+    width: 25%;
+}
+
+.exhibit-heading h2 {
+    margin-bottom: 20px;
+    font-size: 18px;
+    margin: 0;
+}
